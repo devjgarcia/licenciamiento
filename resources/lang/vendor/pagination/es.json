@@ -1,0 +1,11 @@
+{
+    "previous": "&laquo; Previous",
+    "next": "Next &raquo;",
+    "first": "First",
+    "last": "Last",
+    "page": "Page",
+    "page_link": "Page :number",
+    "paginator_info": "Showing :current to :last of :total resultsss",
+    "paginator_info_filtered": "(filtered from :filtered of :total total entries)",
+    "empty": "No matching records found"
+}
